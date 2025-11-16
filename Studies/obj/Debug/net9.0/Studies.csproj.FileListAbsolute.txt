@@ -1,0 +1,14 @@
+C:\Projetos\Studies\Studies\bin\Debug\net9.0\Studies.exe
+C:\Projetos\Studies\Studies\bin\Debug\net9.0\Studies.deps.json
+C:\Projetos\Studies\Studies\bin\Debug\net9.0\Studies.runtimeconfig.json
+C:\Projetos\Studies\Studies\bin\Debug\net9.0\Studies.dll
+C:\Projetos\Studies\Studies\bin\Debug\net9.0\Studies.pdb
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\Studies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\Studies.AssemblyInfoInputs.cache
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\Studies.AssemblyInfo.cs
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\Studies.csproj.CoreCompileInputs.cache
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\Studies.dll
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\refint\Studies.dll
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\Studies.pdb
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\Studies.genruntimeconfig.cache
+C:\Projetos\Studies\Studies\obj\Debug\net9.0\ref\Studies.dll
