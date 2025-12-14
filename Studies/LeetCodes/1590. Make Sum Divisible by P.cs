@@ -26,11 +26,8 @@ public static class _1590
             int neededMod = (currentMod - target + p) % p;
             if (prefixModIndex.ContainsKey(neededMod))
             {
-                int subarrayLength = i - prefixModIndex[neededMod];
-                if (subarrayLength < minLength)
-                {
-                    minLength = subarrayLength;
-                }
+                //int subarrayLength = i - prefixModIndex[neededMod];
+               //
             }
             prefixModIndex[currentMod] = i;
         }
