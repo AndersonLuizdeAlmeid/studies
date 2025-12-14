@@ -4,7 +4,8 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        _3606.ValidateCoupons();
+        _2147.NumberOfWays();
+        //_3606.ValidateCoupons();
         //_3433.CountMentionsPerUser();
         //_3531.CountCoveredBuildings();
         //_3583.SpecialTriplets();
