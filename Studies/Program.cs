@@ -4,7 +4,11 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        _2147.NumberOfWays();
+        _3652.MaxProfit();
+        //_3573.MaximumProfit();
+        //_3562.MaxProfit();
+        //_2110.GetDescentPeriods();
+        //_2147.NumberOfWays();
         //_3606.ValidateCoupons();
         //_3433.CountMentionsPerUser();
         //_3531.CountCoveredBuildings();
